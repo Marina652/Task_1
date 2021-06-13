@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mniki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mniki\\.nuget\\packages"
+    ]
+  }
+}

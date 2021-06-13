@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Epam\\Task1\\Chess(4)\\Chess\\ChessGameLib\\ChessGameLib.csproj": {}
+  },
+  "projects": {
+    "D:\\Epam\\Task1\\Chess(4)\\Chess\\ChessGameLib\\ChessGameLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Epam\\Task1\\Chess(4)\\Chess\\ChessGameLib\\ChessGameLib.csproj",
+        "projectName": "ChessGameLib",
+        "projectPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\ChessGameLib\\ChessGameLib.csproj",
+        "packagesPath": "C:\\Users\\mniki\\.nuget\\packages\\",
+        "outputPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\ChessGameLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mniki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Epam\\Task1\\Chess(4)\\Chess\\EnumsLib\\EnumsLib.csproj": {
+                "projectPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\EnumsLib\\EnumsLib.csproj"
+              },
+              "D:\\Epam\\Task1\\Chess(4)\\Chess\\InterfacesLib\\InterfacesLib.csproj": {
+                "projectPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\InterfacesLib\\InterfacesLib.csproj"
+              },
+              "D:\\Epam\\Task1\\Chess(4)\\Chess\\SpaceData\\SpaceDataLib.csproj": {
+                "projectPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\SpaceData\\SpaceDataLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.17.3, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Epam\\Task1\\Chess(4)\\Chess\\EnumsLib\\EnumsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Epam\\Task1\\Chess(4)\\Chess\\EnumsLib\\EnumsLib.csproj",
+        "projectName": "EnumsLib",
+        "projectPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\EnumsLib\\EnumsLib.csproj",
+        "packagesPath": "C:\\Users\\mniki\\.nuget\\packages\\",
+        "outputPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\EnumsLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mniki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Epam\\Task1\\Chess(4)\\Chess\\InterfacesLib\\InterfacesLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Epam\\Task1\\Chess(4)\\Chess\\InterfacesLib\\InterfacesLib.csproj",
+        "projectName": "InterfacesLib",
+        "projectPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\InterfacesLib\\InterfacesLib.csproj",
+        "packagesPath": "C:\\Users\\mniki\\.nuget\\packages\\",
+        "outputPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\InterfacesLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mniki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Epam\\Task1\\Chess(4)\\Chess\\SpaceData\\SpaceDataLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Epam\\Task1\\Chess(4)\\Chess\\SpaceData\\SpaceDataLib.csproj",
+        "projectName": "SpaceDataLib",
+        "projectPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\SpaceData\\SpaceDataLib.csproj",
+        "packagesPath": "C:\\Users\\mniki\\.nuget\\packages\\",
+        "outputPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\SpaceData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mniki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Epam\\Task1\\Chess(4)\\Chess\\EnumsLib\\EnumsLib.csproj": {
+                "projectPath": "D:\\Epam\\Task1\\Chess(4)\\Chess\\EnumsLib\\EnumsLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

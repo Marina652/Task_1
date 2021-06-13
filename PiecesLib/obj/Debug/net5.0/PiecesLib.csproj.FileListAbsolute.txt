@@ -1,0 +1,5 @@
+D:\Epam\Task1\Chess(4)\Chess\PiecesLib\obj\Debug\net5.0\PiecesLib.csproj.AssemblyReference.cache
+D:\Epam\Task1\Chess(4)\Chess\PiecesLib\obj\Debug\net5.0\PiecesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epam\Task1\Chess(4)\Chess\PiecesLib\obj\Debug\net5.0\PiecesLib.AssemblyInfoInputs.cache
+D:\Epam\Task1\Chess(4)\Chess\PiecesLib\obj\Debug\net5.0\PiecesLib.AssemblyInfo.cs
+D:\Epam\Task1\Chess(4)\Chess\PiecesLib\obj\Debug\net5.0\PiecesLib.csproj.CoreCompileInputs.cache

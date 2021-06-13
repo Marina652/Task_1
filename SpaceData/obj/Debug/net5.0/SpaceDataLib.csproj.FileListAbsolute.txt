@@ -1,0 +1,16 @@
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\bin\Debug\net5.0\SpaceDataLib.deps.json
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\bin\Debug\net5.0\SpaceDataLib.dll
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\bin\Debug\net5.0\ref\SpaceDataLib.dll
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\bin\Debug\net5.0\SpaceDataLib.pdb
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\bin\Debug\net5.0\EnumsLib.dll
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\bin\Debug\net5.0\EnumsLib.pdb
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\obj\Debug\net5.0\SpaceDataLib.csproj.AssemblyReference.cache
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\obj\Debug\net5.0\SpaceDataLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\obj\Debug\net5.0\SpaceDataLib.AssemblyInfoInputs.cache
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\obj\Debug\net5.0\SpaceDataLib.AssemblyInfo.cs
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\obj\Debug\net5.0\SpaceDataLib.csproj.CoreCompileInputs.cache
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\obj\Debug\net5.0\SpaceDataLib.csproj.CopyComplete
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\obj\Debug\net5.0\SpaceDataLib.dll
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\obj\Debug\net5.0\ref\SpaceDataLib.dll
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\obj\Debug\net5.0\SpaceDataLib.pdb
+D:\Epam\Task1\Chess(4)\Chess\SpaceData\bin\Debug\net5.0\NLog.config

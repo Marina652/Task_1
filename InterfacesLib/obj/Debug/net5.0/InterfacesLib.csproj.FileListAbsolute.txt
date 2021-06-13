@@ -1,0 +1,13 @@
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\bin\Debug\net5.0\InterfacesLib.deps.json
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\bin\Debug\net5.0\InterfacesLib.dll
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\bin\Debug\net5.0\ref\InterfacesLib.dll
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\bin\Debug\net5.0\InterfacesLib.pdb
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\obj\Debug\net5.0\InterfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\obj\Debug\net5.0\InterfacesLib.AssemblyInfoInputs.cache
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\obj\Debug\net5.0\InterfacesLib.AssemblyInfo.cs
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\obj\Debug\net5.0\InterfacesLib.csproj.CoreCompileInputs.cache
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\obj\Debug\net5.0\InterfacesLib.dll
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\obj\Debug\net5.0\ref\InterfacesLib.dll
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\obj\Debug\net5.0\InterfacesLib.pdb
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\bin\Debug\net5.0\NLog.config
+D:\Epam\Task1\Chess(4)\Chess\InterfacesLib\obj\Debug\net5.0\InterfacesLib.csproj.AssemblyReference.cache

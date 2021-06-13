@@ -1,0 +1,13 @@
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\bin\Debug\net5.0\EnumsLib.deps.json
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\bin\Debug\net5.0\EnumsLib.dll
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\bin\Debug\net5.0\ref\EnumsLib.dll
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\bin\Debug\net5.0\EnumsLib.pdb
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\obj\Debug\net5.0\EnumsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\obj\Debug\net5.0\EnumsLib.AssemblyInfoInputs.cache
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\obj\Debug\net5.0\EnumsLib.AssemblyInfo.cs
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\obj\Debug\net5.0\EnumsLib.csproj.CoreCompileInputs.cache
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\obj\Debug\net5.0\EnumsLib.dll
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\obj\Debug\net5.0\ref\EnumsLib.dll
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\obj\Debug\net5.0\EnumsLib.pdb
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\bin\Debug\net5.0\NLog.config
+D:\Epam\Task1\Chess(4)\Chess\EnumsLib\obj\Debug\net5.0\EnumsLib.csproj.AssemblyReference.cache
